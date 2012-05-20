@@ -30,9 +30,6 @@ Read the requirement (above) before reading the following steps.
 
 1. Extract all files on your web host.
 2. Edit the config.inc.php file located in "includes".
-2.1. 
-2.2. 
-2.3. 
 3. Save your modifications on config.inc.php.
 4. The panel is ready.
 
