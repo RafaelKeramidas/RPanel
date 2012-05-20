@@ -13,7 +13,7 @@ If you like this project or make a commercial use for it, please donate via payp
 - Start, restart or stop your SA-MP Server.
 - Real time query of your SA-MP Server.
 - RCON Console.
-- Read logs and clear them.
+- Read logs.
 
 # LICENCE
 This project is released under GPLv3. Read the GPLv3.txt for more information.
