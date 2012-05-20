@@ -1,15 +1,13 @@
 RPanel - SA-MP Control Panel
 
 # ABOUT
-RPanel is a free San Andreas Multiplayer control panel. You can easily manage your SA-MP
-server from your web browser and get some basic information.
+RPanel is a free San Andreas Multiplayer control panel. You can easily manage your SA-MP server from your web browser and get some basic information.
 
 @ Author
 This project was developped by Rafael 'R@f' Keramidas <rafael@keramid.as>.
 
 @ Donations
-If you like this project or make a commercial use for it, please donate via paypal at 
-rafael.keramidas@gmail.com. Of course you don't have to but it would be nice if you do :)
+If you like this project or make a commercial use for it, please donate via paypal at rafael.keramidas@gmail.com. Of course you don't have to but it would be nice if you do :)
 
 # FEATURES
 - Start, restart or stop your SA-MP Server.
@@ -34,10 +32,8 @@ Read the requirement (above) before reading the following steps.
 4. The panel is ready.
 
 # SUPPORT
-I don't give ANY support for the installation or managing of this panel, so please don't 
-contact me for that !!
-If you found a bug or a security issue, write me at rafael@keramid.as and don't forget
-to put "RPanel" in the subject.
+I don't give ANY support for the installation or managing of this panel, so please don't contact me for that !!
+If you found a bug or a security issue, write me at rafael@keramid.as and don't forget to put "RPanel" in the subject.
 
 # CHANGELOG
 @ V1.0.0
