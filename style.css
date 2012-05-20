@@ -1,0 +1,185 @@
+/**
+ * RPanel CSS
+ * 
+ * @Author 		Rafael 'R@f' Keramidas
+ * @Date		7th Mai 2012
+ */
+ 
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #D7F3FA;
+}
+
+#page {
+	width: 750px;	
+	margin: 50px auto;
+}
+
+#header {
+	height: 100px;
+}
+
+#logo{
+	float: left;
+	padding-left: 10px;
+}
+
+#srvstatus {
+	float: right;
+	padding-top: 60px;
+	padding-right: 20px;
+	font-weight: bold;
+}
+
+#srvon {
+	color: #00D165;
+}
+
+#srvoff {
+	color: #D10000;
+}
+
+#main {
+	background-color: #F2FBFC;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-moz-box-shadow: 2px 2px 5px 1px #888;	
+	-webkit-box-shadow: 2px 2px 5px 1px #888;	
+	-o-box-shadow: 2px 2px 5px 1px #888;	
+}
+
+#menu {
+	padding: 1px;
+	height: 10px;
+	text-align: center;
+	font-weight: bold;
+}
+
+#menu a, a:visited {
+	color: #737373;
+	text-decoration: none;
+}
+
+#menu a:hover {
+	color: #292929;
+}
+
+#menu li {
+	padding: 0 15px;
+	display: inline;
+}
+
+#menu ul {
+	list-style-type: none;
+}
+
+#content {
+	padding: 20px 50px;
+}
+
+#footer {
+	background-color: #E6E6E6;
+	height: 20px;
+	-webkit-border-bottom-right-radius: 10px;	
+	-webkit-border-bottom-left-radius: 10px;	
+	-moz-border-radius-bottomright: 10px;	
+	-moz-border-radius-bottomleft: 10px;	
+	border-bottom-right-radius: 10px;	
+	border-bottom-left-radius: 10px;
+}
+
+#copy {
+	float: right;
+	margin-top: 2px;
+	margin-right: 7px;
+	font-style: italic;
+	font-size: 12px;
+	color: #828282;
+}
+
+#copy a, a:visited {
+	color: #737373;
+}
+
+#copy a:hover {
+	color: #292929;
+}
+
+#form {
+	text-align: right;
+	width: 290px;
+}
+
+#tablediv {
+	text-align: center;
+	width: 615px;
+	padding: 1px 10px 15px!important;
+}
+
+#tablediv table {
+	margin: 0 auto;
+	width: 610px;
+}
+
+#tablediv td {
+	background: #F2F6FF;
+	border: 1px solid black;
+}
+
+/* Generated with CSSButtonGenerator.com */
+.button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f9f9f9), color-stop(1, #e9e9e9) );
+	background:-moz-linear-gradient( center top, #f9f9f9 5%, #e9e9e9 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f9f9f9', endColorstr='#e9e9e9');
+	background-color:#f9f9f9;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#666666;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #ffffff;
+}
+
+.button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #e9e9e9), color-stop(1, #f9f9f9) );
+	background:-moz-linear-gradient( center top, #e9e9e9 5%, #f9f9f9 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#e9e9e9', endColorstr='#f9f9f9');
+	background-color:#e9e9e9;
+}
+
+.button:active {
+	position:relative;
+	top:1px;
+}
+
+.field {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f9f9f9), color-stop(1, #e9e9e9) );
+	background:-moz-linear-gradient( center top, #f9f9f9 5%, #e9e9e9 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f9f9f9', endColorstr='#e9e9e9');
+	background-color:#f9f9f9;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#666666;
+	font-family:Arial;
+	font-size:14px;
+	font-weight:bold;
+	padding:5px 14px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #ffffff;
+}
