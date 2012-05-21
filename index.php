@@ -1,6 +1,6 @@
 <?php
 	/***
-	 * RPanel - SA-MP Query Class
+	 * RPanel - Main
 	 * 
 	 * @Author		Rafael 'R@f' Keramidas <rafael@keramid.as>
 	 * @Version		1.0.0
