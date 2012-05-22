@@ -3,8 +3,8 @@
 	 * RPanel - SA-MP RCON Class
 	 * 
 	 * @Author		Rafael 'R@f' Keramidas <rafael@keramid.as>
-	 * @Version		1.0
-	 * @Date		18th Mai 2012
+	 * @Version		1.1
+	 * @Date		22th Mai 2012
 	 * @Licence		GPLv3 
 	 ***/
 	
@@ -60,10 +60,7 @@
 		 * @return	boolean		True if the server is on, false if not.
 		 ***/
 		public function isOnline() {
-			if($this->serverinfo['online'] == true)
-				return true;
-			else
-				return false;
+			return $this->serverinfo['online'];
 		}
 		
 		/***
